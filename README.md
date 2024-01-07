@@ -1,6 +1,6 @@
 
 
-![](D:\Project\Traveler\img\bg.jpg)
+![](./img/bg.jpg)
 
 ## Traveler 你开始了吗！
 
