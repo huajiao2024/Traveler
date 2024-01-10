@@ -1,0 +1,30 @@
+# This is a YAML example file
+
+name: John Doe
+age: 30
+city: New York
+isStudent: false
+skills:
+  - Java
+  - JavaScript
+  - Python
+
+address:
+  street: 123 Main Street
+  city: Anytown
+  zip: '12345'
+
+contacts:
+  email: john@example.com
+  phone:
+    home: '123-456-7890'
+    work: '987-654-3210'
+
+favorites:
+  colors:
+    - Red
+    - Blue
+  movies:
+    - Inception
+    - The Shawshank Redemption
+  sports: Football
