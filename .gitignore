@@ -1,6 +1,14 @@
 **/target/
-.idea
-*.iml
 *.class
 *Test.java
 **/test/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
